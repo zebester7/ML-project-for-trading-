@@ -1,0 +1,5 @@
+{
+  "name": "Sentimetra: High-Frequency Market Engine",
+  "description": "Real-time streaming pipeline correlating social media sentiment with market volatility using Gemini AI and WebSockets.",
+  "requestFramePermissions": []
+}
